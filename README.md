@@ -1,13 +1,20 @@
 Ok so this is a Snake game. When you code it in your Text Editor save it with a .html extension.
 If you've had a phone in the early 2000s you probably know snake that you would play on yours or your mums nokia brick
 by upsettingcord
+ok broskis the rule and how the game work is
+you gotta eat the blue as it is food. 
+You grow when you eat 
+If you hit yourself by going into 
+the wall then back out on the other side
+then you get smaller
+or if you go up then back down and fly into yourself you get smaller
 Code below |
            |
           \ /
 
 <html>
     <head>
-	<title>SnakeGame (dot org)</title>
+	<title>SnakeGame </title>
 	
 	 </head>
 	 
@@ -132,12 +139,5 @@ window.onload = function(){
 };
 </script>
 <head>Rules</head>
-<p>ok broskis the rule and how the game work is
-you gotta eat the blue as it is food. 
-You grow when you eat 
-If you hit yourself by going into 
-the wall then back out on the other side
-then you get smaller
-or if you go up then back down and fly into yourself you get smaller</p>
     </body>
 </html>
